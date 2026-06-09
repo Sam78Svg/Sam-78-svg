@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/sangmeshwar-kendre-4919b22b6/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:kendresangamwaman@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-# 💫 About Me:
+💫 About Me:
 🙋‍♂️ hi, my name is Sangmeshwar (Sangam)<br>🧑‍🎓 I'm a MCA student<br>💖 I Love coding so much<br>👷 Mostly work on Full stack and IoT projects<br>🏫 Studying in IMCC, Pune<br>🤫 Like to stay quiet<br>🎥 Movies are my world<br>
 
 ## 🌐 Socials:
@@ -23,13 +23,11 @@
 | **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
 | **DevOps/Tools** | ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
 
----
-
 
 # 🚀 Most Committed Project:
 <p align="left">
-  <a href="https://github.com/Sam78Svg/Blood-Bank-Management-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sam78Svg&repo=Blood-Bank-Management-System&theme=radical&border_radius=10&show_owner=true" height="150" />
+  <a href="https://github.com/Sam78Svg/MiniProject">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sam78Svg&repo=MiniProject&theme=radical&border_radius=10&show_owner=true" height="150" />
   </a>
 </p>
 
